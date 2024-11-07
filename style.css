@@ -1,0 +1,30 @@
+/* usar cor #FF3F01 */
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+#logo{
+    text-align: left;
+    
+}
+#logo_G{
+    display: inline;
+    font-size: 40px;
+}
+#destaque_geral{
+    background-color: #FF3F01;
+    display: inline-block;
+    font-size: 40px;
+    padding-right: 3px;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
+#destaque_primeiro{
+    color:#FF3F01 ;
+    display: inline;
+}
